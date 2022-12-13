@@ -1,5 +1,13 @@
+ines (11 sloc)  191 Bytes
 #include "main.h"
-int add(int a, int b){
-return (a+b);
+/**
+* add - adds two integers and returns the result
+* @a: an integer to add to b
+* @b: an integer to add to a
+* Return: Void.
+*/
 
+int add(int a, int b)
+{
+return (a + b);
 }
