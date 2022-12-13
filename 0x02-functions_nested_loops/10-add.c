@@ -1,4 +1,3 @@
-ines (11 sloc)  191 Bytes
 #include "main.h"
 /**
 * add - adds two integers and returns the result
